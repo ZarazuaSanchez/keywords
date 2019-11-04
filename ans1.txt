@@ -1,0 +1,3 @@
+BUDGET 3
+SHIRT 2
+TEA 1
