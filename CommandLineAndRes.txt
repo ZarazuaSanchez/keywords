@@ -1,0 +1,64 @@
+********************************** test1.txt ******************************************************
+python3 keyword.py "input=test1.txt;k=2;mostfrequent=Y;uppercase=N;output=keywords.txt"
+output:
+nobel 3
+american 2
+awarded 2
+careers 2
+foundation 2
+immigrants 2
+prizes 2
+topics 2
+universities 2
+
+
+
+
+
+
+
+
+
+********************************** test2.txt ******************************************************
+python3 keyword.py "input=test2.txt;k=1;mostfrequent=Y;uppercase=N;output=keywords.txt"
+output:
+lithium 4
+
+
+
+********************************** test3.txt ******************************************************
+python3 keyword.py "input=test3.txt;k=2;mostfrequent=N;uppercase=Y;output=keywords.txt"
+output:
+COMPUTER 1
+HOUSTON 1
+UNIVERSITY 1
+SCHOOL 1
+SCIENCE 1
+ABD 2
+
+
+
+
+********************************** test4.txt ******************************************************
+python3 keyword.py "input=test4.txt;k=3;mostfrequent=N;uppercase=Y;output=keywords.txt"
+output:
+
+
+
+
+
+********************************** test5.txt ******************************************************
+python3 keyword.py "input=test5.txt;k=2;mostfrequent=Y;uppercase=Y;output=keywords.txt"
+output:
+day 3
+time 2
+
+
+********************************** test6.txt ******************************************************
+python3 keyword.py "input=test5.txt;k=3;mostfrequent=Y;uppercase=n;output=keywords.txt"
+output:
+nobel 6
+prize 5
+chemistry 4
+
+
